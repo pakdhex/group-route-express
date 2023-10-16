@@ -1,6 +1,6 @@
 {
   "name": "group-route-express",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ini adalah group/prefix untuk routing express",
   "main": "index.js",
   "type": "module",
